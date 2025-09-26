@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// trabalho realizado 
 int main() {
     // Declaração das variáveis para armazenar os dados da
     // Carta 1
